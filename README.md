@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alejandrovsdev
-- 👀 I’m interested in learn for be a fullstack dev.
-- 🌱 I’m currently learning the basics about web desing with html and css.
-- 📫 How to reach me @alejandrosvs on instagram or email me (Alejandrovs.fsdev@gmail.com).
+- 👀 I’m interested in learn everything i can about programming.
+- 🌱 I’m currently learning Java and Spring.
+- 📫 How to reach me: email me (Alejandrovs.fsdev@gmail.com).
 
 <!---
 Alejandrovsdev/Alejandrovsdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
