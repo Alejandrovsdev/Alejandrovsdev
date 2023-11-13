@@ -1,8 +1,40 @@
+
+<h1 align="center"><b>Hi , I'm Alejandro Suarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<br>
+
+## **About me**
+<br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA15F7&random=false&width=435&lines=Software+Developer;From+Argentina+%7C+Sgo+del+Estero;Java+%7C+PHP+%7C+Javascript" alt="Typing SVG" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 👋 Hi, I’m @Alejandrovsdev
 - 👀 I’m interested in learn everything i can about programming.
-- 🌱 I’m currently learning Java and Spring.
+- 🌱 I’m currently learning PHP | Laravel
 - 📫 How to reach me: email me (Alejandrovs.fsdev@gmail.com).
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
+## **Skills**
+
+**Front-End Development**
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,)](https://skillicons.dev)
+<br><br>
+**Back-End Development**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postman,php,laravel,nodejs,express,mysql,mongodb)](https://skillicons.dev)
+<br><br>
+**IDEs**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,figma)](https://skillicons.dev)
+<br><br>
+**Extras**
+<br>
+[![My Skills](https://skillicons.dev/icons?i=discord,git,github,)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---
 Alejandrovsdev/Alejandrovsdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
