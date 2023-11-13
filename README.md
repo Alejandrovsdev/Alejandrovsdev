@@ -1,6 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Alejandro Suarez </b></h1>
-
+<img src="https://github.com/Alejandrovsdev/Alejandrovsdev/blob/main/banner.png">
 <br>
 
 ## **About me**
