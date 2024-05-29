@@ -8,10 +8,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-- 👋 Hi, I’m @Alejandrovsdev.<br>
-- 👀 I’m interested in learn everything i can about programming.<br>
-- 🌱 I’m currently learning Java | Spring.<br>
-- 📫 How to reach me: email me (Alejandrovs.fsdev@gmail.com).<br>
+- 👋 Hi, I’m @Alejandrovsdev.
+- 👀 I’m interested in learn everything i can about backend programming.
+- 🌱 I’m currently learning Java | Spring.
+- 📫 How to reach me: email me (Alejandrovs.fsdev@gmail.com).
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
