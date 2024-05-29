@@ -1,12 +1,11 @@
-
-<img src="https://github.com/Alejandrovsdev/Alejandrovsdev/blob/main/banner.png">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA15F7&random=false&width=435&lines=Software+Developer;From+Argentina+%7C+Sgo+del+Estero;Java+%7C+PHP+%7C+Javascript" alt="Typing SVG" /></a>
+</div>
 <br>
 
 ## **About me**
 <br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BA15F7&random=false&width=435&lines=Software+Developer;From+Argentina+%7C+Sgo+del+Estero;Java+%7C+PHP+%7C+Javascript" alt="Typing SVG" /></a>
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 - 👋 Hi, I’m @Alejandrovsdev.<br>
