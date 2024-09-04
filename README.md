@@ -22,7 +22,7 @@
 <br><br>
 **Back-End Development**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postman,nodejs,express,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,postman,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 <br><br>
 **IDEs**
 <br>
