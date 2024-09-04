@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=BA15F7&random=false&width=435&lines=Software+Developer;From+Argentina+%7C+Sgo+del+Estero;Java+%7C+Javascript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=BA15F7&random=false&width=435&lines=Software+Developer;From+Argentina+%7C+Sgo+del+Estero;PHP+%7C+Javascript" alt="Typing SVG" /></a>
 </div>
 <br>
 
@@ -8,7 +8,7 @@
 <br>
 - 👋 Hi, I’m @Alejandrovsdev.<br>
 - 👀 I’m interested in learn everything i can about backend programming.<br>
-- 🌱 I’m currently learning Java | Spring.<br>
+- 🌱 I’m currently learning PHP | Laravel.<br>
 - 📫 How to reach me: email me (Alejandrovs.fsdev@gmail.com).<br>
 <br>
 
