@@ -6,10 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-- 👋 Hi, I’m @Alejandrovsdev.  
-- 👀 I’m interested in learning everything I can about software development.  
-- 🌱 I’m currently learning PHP | Laravel.  
-- 📫 How to reach me: [email me](mailto:Alejandrovs.fsdev@gmail.com).
+- 👋 Hi, I’m @Alejandrovsdev.<br>
+- 👀 I’m interested in learning everything I can about software development.<br>
+- 🌱 I’m currently learning PHP | Laravel.<br>
+- 📫 How to reach me: [email me](mailto:Alejandrovs.fsdev@gmail.com).<br>
 <br>
 
 
