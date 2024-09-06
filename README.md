@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @Alejandrovsdev.<br>
 - 👀 I’m interested in learning everything I can about software development.<br>
 - 🌱 I’m currently learning PHP | Laravel.<br>
-- 📫 How to reach me: [email me](mailto:Alejandrovs.fsdev@gmail.com).<br>
+- 📫 How to reach me: <a href="mailto:Alejandrovs.fsdev@gmail.com">email me</a>.<br>
 <br>
 
 
