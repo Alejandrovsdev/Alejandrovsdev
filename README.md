@@ -31,7 +31,7 @@
 <br><br>
 **Extras**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=discord,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,git,github,figma,docker)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---
 Alejandrovsdev/Alejandrovsdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
